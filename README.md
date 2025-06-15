@@ -37,7 +37,9 @@ PyRE Tool是一个集成调用了多个Python逆向工程工具的图形化界�
 ### 预编译版本（推荐）
 
 1. 前往[Release页面](https://github.com/X1uSi/py_re_tools/releases)下载最新版的`py_re_tool.exe`
-2. 解压双击运行即可使用，无需安装
+2. 解压zip文件
+3. 安装依赖requirements.txt
+4. 双击运行exe即可
 
 ## 使用指南
 
