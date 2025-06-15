@@ -1,7 +1,5 @@
 # Python逆向工程工具集 (PyRE Tool)
 
-![PyRE Tool Screenshot](screenshot.png)
-
 [![GitHub release](https://img.shields.io/github/release/X1uSi/py_re_tools.svg)](https://github.com/X1uSi/py_re_tools/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](about:blank)
