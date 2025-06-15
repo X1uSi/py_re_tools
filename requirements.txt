@@ -1,0 +1,2 @@
+pyinstaller
+uncompyle6
