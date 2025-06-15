@@ -1,10 +1,9 @@
 # Python逆向工程工具集 (PyRE Tool)
 
 [![GitHub release](https://img.shields.io/github/release/X1uSi/py_re_tools.svg)](https://github.com/X1uSi/py_re_tools/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](about:blank)
 
-PyRE Tool是一个集成了多个Python逆向工程工具的图形化界面程序，旨在简化Python打包文件（如PyInstaller生成的exe）的解包、反编译和反汇编过程。
+PyRE Tool是一个集成了多个Python逆向工程工具的图形化界面程序，旨在简化Python打包文件（如PyInstaller生成的exe）的解包、反编译和反汇编过程。适合像作者这样的懒狗qwq。
 
 ## 功能亮点
 
